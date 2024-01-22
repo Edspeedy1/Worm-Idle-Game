@@ -1,0 +1,9 @@
+ red, fiery, saffron, fuchsia, coral, orange, tangerine, almond, desert, cinnabar, carrot, beige, pearl, pink, citrine, yellow, floral, cream, cotton, day, rasberry, night, 
+khaki, purple, lavender, chestnut, brown, green, sugar, bronze, baby blue, burgandy, blood red, grey, lime, teal, grape, charcoal, orchid, amethyst, violet, flower, olive, 
+ebony, ruby, liver, slate, flat, lava, emerald, sea blue, sea green, azure, cyan, aqua, magenta, electric, barn yard, frost, coffee, chocolate, jungle, bean, arctic, glowing, 
+amazon, common, water, potato, tree, black, white, apple, pear, long, dirt, iron, wax, mud, slimy, scarlet, golden, indigo, silver, copper, sapphire, crimson, amber, jade, 
+ivory, topaz, rusty, ashen, plum, lilac, honey, champagne, moss, apricot, tan, maroon, banana, nut, tube, 
+| wiggler, crawler, worm, worm, worm, worm, worm, worm, worm, earthworm, earthworm, earthworm, serpent, maggot, squirmer, twister, incher, wriggler, rippler, hisser, scooper, 
+inchworm, noodle, slipper, slider, swooper, burrower, zigzager, hopper
+| dim, dark, bright, light, fuzzy, wiggly, fat, large, skinny, flat, european, american, asian, african, caribbean, long, tiny, round, curved, spotted, striped, elegant, bold, 
+speckled, frilled, collared, colored, tipped, headed, banded, ringed
